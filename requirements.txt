@@ -1,5 +1,4 @@
 openai
 streamlit
-base64
 audio_recorder_streamlit
 streamlit_float
