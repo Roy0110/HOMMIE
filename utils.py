@@ -2,7 +2,7 @@ from openai import OpenAI
 import os
 import base64
 import streamlit as st
-api_key = "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"
+api_key = "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"
 
 client = OpenAI(api_key=api_key)
 
