@@ -1,0 +1,6 @@
+openai
+streamlit
+os
+base64
+audio_recorder_streamlit
+streamlit_float
